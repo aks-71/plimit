@@ -34,9 +34,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/akshat/plimit"
-Repository = "https://github.com/akshat/plimit"
-Issues = "https://github.com/akshat/plimit/issues"
+Homepage = "https://github.com/aks-71/plimit"
+Repository = "https://github.com/aks-71/plimit"
+Issues = "https://github.com/aks-71/plimit/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/plimit"]
