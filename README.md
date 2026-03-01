@@ -10,6 +10,12 @@ Python port of the popular Node.js [`p-limit`](https://github.com/sindresorhus/p
 pip install plimit
 ```
 
+or with [uv](https://docs.astral.sh/uv/):
+
+```
+uv add plimit
+```
+
 ## Usage
 
 ```python
